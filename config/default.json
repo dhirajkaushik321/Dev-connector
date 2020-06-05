@@ -1,0 +1,4 @@
+{
+    "mongoURL"
+    :"mongodb+srv://DevConnector54321:DevConnector54321@cluster0-egape.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
