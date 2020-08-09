@@ -1,5 +1,6 @@
 {
     "mongoURL"
     :"mongodb+srv://DevConnector54321:DevConnector54321@cluster0-egape.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret":"myjwtsecret"
+    "jwtSecret":"myjwtsecret",
+    "githubToken":"056222738e0ce4dda5c98ed45deff66d4b04e40f"
 }
